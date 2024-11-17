@@ -1,0 +1,2 @@
+anyware/** filter=lfs diff=lfs merge=lfs -text
+backend/** filter=lfs diff=lfs merge=lfs -text
