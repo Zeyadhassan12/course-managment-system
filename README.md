@@ -95,7 +95,8 @@ https://github.com/user-attachments/assets/43fabc73-8514-41cf-9fa2-80a9bc33d129
 
 ## ScreenShot
 
-<img width="1440" alt="Screenshot 2024-11-17 at 4 06 04 PM" src="https://github.com/user-attachments/assets/522e54c5-2944-48a3-83d9-c2ba2fe8f10a">
+<img width="1429" alt="Screenshot 2024-11-17 at 4 11 17 PM" src="https://github.com/user-attachments/assets/06b4eb15-c848-4ae6-9420-1c2e376339ac">
+
 
 ## Contact Information
 
